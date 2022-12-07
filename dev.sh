@@ -1,0 +1,1 @@
+cp -r /var/lib/jenkins/workspace/react-test /var/www/jenkins.test
