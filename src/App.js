@@ -8,7 +8,7 @@ function App() {
                 <img src={logo} className="App-logo" alt="logo" />
                 <p>5555555</p>
                 <a className="App-link" href="https://reactjs.org" target="_blank" rel="noopener noreferrer">
-                    Learn React
+                    ㅜㄹ룰루루라라라
                 </a>
             </header>
         </div>
